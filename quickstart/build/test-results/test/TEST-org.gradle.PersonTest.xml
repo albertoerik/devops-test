@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.gradle.PersonTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2018-09-17T22:18:00" hostname="newwindow" time="0.011">
+  <properties/>
+  <testcase name="canConstructAPersonWithAName" classname="org.gradle.PersonTest" time="0.006"/>
+  <testcase name="Test10" classname="org.gradle.PersonTest" time="0.0"/>
+  <testcase name="Test1" classname="org.gradle.PersonTest" time="0.0"/>
+  <testcase name="Test2" classname="org.gradle.PersonTest" time="0.0"/>
+  <testcase name="Test3" classname="org.gradle.PersonTest" time="0.0"/>
+  <testcase name="Test4" classname="org.gradle.PersonTest" time="0.001"/>
+  <testcase name="Test5" classname="org.gradle.PersonTest" time="0.0"/>
+  <testcase name="Test6" classname="org.gradle.PersonTest" time="0.0"/>
+  <testcase name="Test7" classname="org.gradle.PersonTest" time="0.0"/>
+  <testcase name="Test8" classname="org.gradle.PersonTest" time="0.001"/>
+  <testcase name="Test9" classname="org.gradle.PersonTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
